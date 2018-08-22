@@ -1,0 +1,3 @@
+rootProject.name = 'trace_client'
+
+include ':app'
